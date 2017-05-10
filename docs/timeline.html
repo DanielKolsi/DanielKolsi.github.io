@@ -13,10 +13,21 @@
 					embed_id:	'my-timeline'
 				});
 			});
+			$(document).ready(function() {
+				createStoryJS({
+					type:		'timeline2',
+					width:		'800',
+					height:		'400',
+					source:		'timeline2.json',
+					embed_id:	'my-timeline2'
+				});
+			});
 		</script>
 		<!-- END TimelineJS -->
 	</head>
 	<body>
 		Daniel Kolsi's portfolio
 		<div id="my-timeline"></div>
+		Daniel Kolsi's resume
+		<div id="my-timeline2"></div>
 	</body>
