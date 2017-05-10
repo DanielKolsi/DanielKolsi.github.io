@@ -1,25 +1,105 @@
 {
 	"timeline":
 	{
-		"headline":"The Main Timeline Headline Goes here",
+		"headline":"Daniel Kolsi's portfolio",
 		"type":"default",
 		"text":"<p>Intro body text goes here, some HTML is ok</p>",
 		"asset": {
-			"media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
+			"media":"http://www.faceop.com",
 			"credit":"Credit Name Goes Here",
 			"caption":"Caption text goes here"
 		},
 		"date": [
 			{
-				"startDate":"2011,12,10,07,02,10",
-				"endDate":"2011,12,11,08,11",
+        "startDate":"2011,12,12",
+				"endDate":"2012,1,27",
+        "headline":"Vine",
+        "text":"<p>Vine abcdef abcdef abcdef abcdefTestabcdef <br> abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTestabcdef abcdef abcdef abcdefTest</p>",
+        "asset": {
+          "media":"http://www.kirjasilta.net",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2011,12,12",
+				"endDate":"2012,1,27",
+        "headline":"a",
+        "text":"<p>tmp</p>",
+        "asset": {
+          "media":"test",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2015,12,12",
+				"endDate":"2017,1,27",
+        "headline":"b",
+        "text":"<p>tmp</p>",
+        "asset": {
+          "media":"test",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2011,12,12",
+				"endDate":"2012,1,27",
+        "headline":"a",
+        "text":"<p>tmp</p>",
+        "asset": {
+          "media":"test",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2011,12,12",
+				"endDate":"2012,1,27",
+        "headline":"a",
+        "text":"<p>tmp</p>",
+        "asset": {
+          "media":"test",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2011,12,12",
+				"endDate":"2012,1,27",
+        "headline":"a",
+        "text":"<p>tmp</p>",
+        "asset": {
+          "media":"test",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+				"startDate":"1985,01,01,07,02,10",
+				"endDate":"2017,01,01,08,11",
 				"headline":"Headline Goes Here",
 				"text":"<p>Body text goes here, some HTML is OK</p>",
 				"tag":"This is Optional",
 				"classname":"optionaluniqueclassnamecanbeaddedhere",
 				"asset": {
-					"media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
-					"thumbnail":"optional-32x32px.jpg",
+					"media":"https://github.com/DanielKolsi/FaceOP",
+					"thumbnail":"../assets/kolsi.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"1985,01,01,07,02,10",
+				"endDate":"2017,01,01,08,11",
+				"headline":"Headline Goes Here",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"http://www.hut.fi",
+					"thumbnail":"../assets/kolsi.jpg",
 					"credit":"Credit Name Goes Here",
 					"caption":"Caption text goes here"
 				}
@@ -27,10 +107,10 @@
 		],
 		"era": [
 			{
-				"startDate":"2011,12,10",
-				"endDate":"2011,12,11",
-				"headline":"Headline Goes Here",
-				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"startDate":"2080,12,10",
+				"endDate":"2021,12,11",
+				"headline":"XXXHeadline Goes Here",
+				"text":"<p>Body ERA text goes here, some HTML is OK</p>",
 				"tag":"This is Optional"
 			}
 
