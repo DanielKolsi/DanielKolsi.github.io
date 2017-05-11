@@ -3,7 +3,7 @@
 	{
 		"headline":"Daniel Kolsi's portfolio of side projects",
 		"type":"default",
-		"text":"<p>Some digests of side projects since 1991 <br> Some content available at GitHub </p>",
+		"text":"<p>Some digests of side projects since 1991 <br> Content partially available at GitHub </p>",
 		"asset": {
 			"media":"",
 			"credit":"Credit Name Goes Here",
@@ -67,7 +67,7 @@
       },
 			{
         "startDate":"2016",
-				"endDate":"2017",
+				"endDate":"2017-5-5",
         "headline":"Epoch",
         "text":"<p>Game consisting of computer game themes since 1970!</p>",
         "asset": {
@@ -77,30 +77,29 @@
         }
       },
 			{
-        "startDate":"2016-12-12",
+        "startDate":"2017",
 				"endDate":"2017",
         "headline":"Matcher",
         "text":"<p>Profile matcher engine for FaceOP & BusinessKnot</p>",
         "asset": {
           "media":"https://github.com/DanielKolsi/matcher",
-          "credit":"",
-          "caption":""
+          "credit":"Matcher @ GitHub",
+          "caption":"Matcher engine: RegExp + AI"
         }
       },
 			{
-        "startDate":"2016-12-12",
+        "startDate":"2017",
 				"endDate":"2017",
-        "headline":"Matcher",
-        "text":"<p>Profile matcher engine for FaceOP & BusinessKnot</p>",
+        "headline":"Javascript experiments",
+        "text":"<p>Code snippets of Javascript experiments <br> with different libraries</p>",
         "asset": {
-          "media":"https://github.com/DanielKolsi/matcher",
+          "media":"https://github.com/DanielKolsi/js_experiments",
           "credit":"",
           "caption":""
         }
       },
 			{
-        "startDate":"2016-5-5",
-				"endDate":"2017",
+        "startDate":"2017-5-5",
         "headline":"BusinessKnot",
         "text":"<p>Business related face-to-face profile matching</p>",
         "asset": {
@@ -108,53 +107,7 @@
           "credit":"",
           "caption":""
         }
-      },
-			{
-        "startDate":"2001",
-				"endDate":"2002",
-        "headline":"Quartal Oy",
-        "text":"<p>software developer (Java)</p>",
-        "asset": {
-          "media":"",
-          "credit":"",
-          "caption":""
-        }
-      },
-			{
-        "startDate":"2003",
-				"endDate":"2008",
-        "headline":"Medicel Oy",
-        "text":"<p>software developer (Java)</p>",
-        "asset": {
-          "media":"",
-          "credit":"",
-          "caption":""
-        }
-      },	
-			{
-				"startDate":"1997,01,01,07,02,10",
-				"endDate":"2017,01,01,08,11",
-				"headline":"Headline Goes Here",
-				"text":"<p>Body text goes here, some HTML is OK</p>",
-				"tag":"This is Optional",
-				"classname":"optionaluniqueclassnamecanbeaddedhere",
-				"asset": {
-					"media":"http://www.hut.fi",
-					"thumbnail":"../assets/kolsi.jpg",
-					"credit":"Credit Name Goes Here",
-					"caption":"Caption text goes here"
-				}
-			}
-		],
-		"era": [
-			{
-				"startDate":"2000,12,10",
-				"endDate":"2021,12,11",
-				"headline":"XXXHeadline Goes Here",
-				"text":"<p>Body ERA text goes here, some HTML is OK</p>",
-				"tag":"This is Optional"
-			}
-
+      }
 		]
 	}
 }

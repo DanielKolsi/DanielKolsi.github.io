@@ -1,0 +1,180 @@
+{
+	"timeline":
+	{
+		"headline":"Daniel Kolsi's resume",
+		"type":"default",
+		"text":"<p>includes only work related in the field of software engineering",
+		"asset": {
+			"media":"",
+			"credit":"Credit Name Goes Here",
+			"caption":"Caption text goes here"
+		},
+		"date": [
+			{
+        "startDate":"1997",
+				"endDate":"1998",
+        "headline":"TML laboratory, Helsinki university ot technology ",
+        "text":"<p>civil service, Java programming</p>",
+        "asset": {
+          "media":"",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+				"startDate":"1998",
+				"endDate":"2000",
+				"headline":"TKO laboratory, Helsinki university ot technology",
+				"text":"<p>research assistant (Java development)</p>",
+				"asset": {
+					"media":"",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+        "startDate":"2001",
+				"endDate":"2002",
+        "headline":"Quartal Oy",
+        "text":"<p>software developer (Java)</p>",
+        "asset": {
+          "media":"http://www.quartal.fi/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2003",
+				"endDate":"2008",
+        "headline":"Medicel Oy",
+        "text":"<p>senior software engineer (Java) <br> Implemented e.g. biochemical pathway navigator, <br> multiple bioinformatics tools and mass spectrometry viewer</p>",
+        "asset": {
+          "media":"",
+          "credit":"",
+          "caption":"test"
+        }
+      },
+			{
+        "startDate":"2008",
+				"endDate":"2013",
+        "headline":"Perigeum Oy",
+        "text":"<p>software consultant (Java)</p>",
+        "asset": {
+          "media":"http://www.perigeum.fi/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2008",
+				"endDate":"2009",
+        "headline":"Itella / Posti",
+        "text":"<p>software consultant (Java, JSP, front end)</p>",
+        "asset": {
+          "media":"",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2009",
+				"endDate":"2010",
+        "headline":"NSN / Nokia Networks",
+        "text":"<p>software consultant (Java (JEE), weblogic)</p>",
+        "asset": {
+          "media":"https://networks.nokia.com/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2010",
+				"endDate":"2010",
+        "headline":"Logica / CGI",
+        "text":"<p>software consultant (Java (JEE))</p>",
+        "asset": {
+          "media":"https://www.cgi.com/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2010",
+				"endDate":"2010",
+        "headline":"Logica / CGI (remote)",
+        "text":"<p>software consultant (Java, front end)</p>",
+        "asset": {
+          "media":"https://www.cgi.com/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2010",
+				"endDate":"2011",
+        "headline":"OP-Pohjola/OP",
+        "text":"<p>software consultant (Javascript, JQuery etc.)</p>",
+        "asset": {
+          "media":"https://www.op.fi",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2011",
+				"endDate":"2012",
+        "headline":"Vaisala Oy",
+        "text":"<p>software consultant (Java (JEE))</p>",
+        "asset": {
+          "media":"http://www.vaisala.fi/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2012",
+				"endDate":"2013",
+        "headline":"Perigeum Oy (office)",
+        "text":"<p>Bigdata & BI training</p>",
+        "asset": {
+          "media":"http://www.perigeum.fi/portfolio-view/big-data/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2013",
+				"endDate":"2014",
+        "headline":"Aalto Protomo",
+        "text":"<p>sponsored entrepreneurship program</p>",
+        "asset": {
+          "media":"http://pienyrityskeskus.aalto.fi/fi/eu-projects/archive/national/aalto_protomo_helsinki/",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
+        "startDate":"2014",
+				"endDate":"2017",
+        "headline":"FaceOP",
+        "text":"<p>FaceOP app Beta, design & implementation</p>",
+        "asset": {
+          "media":"https://github.com/DanielKolsi/FaceOP",
+          "credit":"",
+          "caption":""
+        }
+      },
+			
+			{
+        "startDate":"2017",
+        "headline":"BusinessKnot",
+        "text":"<p>BusinessKnot team + initial business meeting app design</p>",
+        "asset": {
+          "media":"https://github.com/DanielKolsi/BusinessKnot",
+          "credit":"",
+          "caption":""
+        }
+      }
+		]
+	}
+}
