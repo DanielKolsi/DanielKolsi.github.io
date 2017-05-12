@@ -33,7 +33,7 @@
         "headline":"FaceOP",
         "text":"<p>FaceOP - face-to-face profile matched group meetings</p>",
         "asset": {
-          "media":"http://www.faceop.com",
+          "media":"https://github.com/DanielKolsi/FaceOP",
           "credit":"GPSMeet & FaceOP",
           "caption":"Objective C, Javascript & Java"
         }
