@@ -53,7 +53,7 @@
         }
       },
 			{
-        "startDate":"2015,10,10",
+        "startDate":"2015,4,10",
         "headline":"LasarOS",
         "text":"<p>Open source patient care system</p>",
         "asset": {
@@ -66,6 +66,7 @@
         "startDate":"2016,12,0",
         "headline":"Epoch",
         "text":"<p>Game consisting of computer game themes since 1970!</p>",
+				"tag":"Epoch game",
         "asset": {
           "media":"https://github.com/DanielKolsi/Epoch",
           "credit":"",
@@ -83,6 +84,16 @@
         }
       },
 			{
+        "startDate":"2017,4,10",
+        "headline":"BusinessKnot",
+        "text":"<p>Business related face-to-face profile matching</p>",
+        "asset": {
+          "media":"https://github.com/DanielKolsi/BusinessKnot",
+          "credit":"",
+          "caption":""
+        }
+      },
+			{
         "startDate":"2017,5,10",
         "headline":"Javascript experiments",
         "text":"<p>Code snippets of Javascript experiments <br> with different libraries</p>",
@@ -91,17 +102,8 @@
           "credit":"",
           "caption":""
         }
-      },
-			{
-        "startDate":"2017,5,1",
-        "headline":"BusinessKnot",
-        "text":"<p>Business related face-to-face profile matching</p>",
-        "asset": {
-          "media":"https://github.com/DanielKolsi/BusinessKnot",
-          "credit":"",
-          "caption":""
-        }
       }
+
 		]
 	}
 }
