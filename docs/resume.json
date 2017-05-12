@@ -1,9 +1,9 @@
 {
 	"timeline":
 	{
-		"headline":"Daniel Kolsi's resume",
+		"headline":"Daniel Kolsi's (MSc, CS) resume",
 		"type":"default",
-		"text":"<p>includes only work related in the field of software engineering",
+		"text":"<p>includes only work experience in the field of software engineering",
 		"asset": {
 			"media":"",
 			"credit":"Credit Name Goes Here",
@@ -164,7 +164,6 @@
           "caption":""
         }
       },
-			
 			{
         "startDate":"2017",
         "headline":"BusinessKnot",
