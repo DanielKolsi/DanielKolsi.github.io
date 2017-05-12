@@ -4,174 +4,184 @@
 		"headline":"Daniel Kolsi's (MSc, CS) resume",
 		"type":"default",
 		"text":"<p>includes only work experience in the field of software engineering",
-		"asset": {
-			"media":"",
-			"credit":"Credit Name Goes Here",
-			"caption":"Caption text goes here"
-		},
+
 		"date": [
 			{
         "startDate":"1997",
 				"endDate":"1998",
-        "headline":"TML laboratory, Helsinki university ot technology ",
+        "headline":"TML laboratory, Helsinki university of technology",
+				"tag":"TML laboratory",
         "text":"<p>civil service, Java programming</p>",
         "asset": {
-          "media":"",
-          "credit":"",
-          "caption":""
+          "media":"http://www.tml.tkk.fi/english.html",
+          "credit":"Telecommunication and Multimedia Laboratory",
+          "caption":"Java"
         }
       },
 			{
 				"startDate":"1998",
 				"endDate":"2000",
-				"headline":"TKO laboratory, Helsinki university ot technology",
+				"headline":"CS laboratory, Helsinki university of technology",
+				"tag":"CS (TKO) laboratory",
 				"text":"<p>research assistant (Java development)</p>",
 				"asset": {
-					"media":"",
-					"credit":"",
-					"caption":""
+					"media":"http://cs.aalto.fi/en/",
+					"credit":"Computer science laboratory, HUT",
+					"caption":"Java, education"
 				}
 			},
 			{
         "startDate":"2001",
 				"endDate":"2002",
         "headline":"Quartal Oy",
+				"tag":"Quartal Oy",
         "text":"<p>software developer (Java)</p>",
         "asset": {
           "media":"http://www.quartal.fi/",
-          "credit":"",
-          "caption":""
+          "credit":"Quartal Oy",
+          "caption":"Java"
         }
       },
 			{
         "startDate":"2003",
 				"endDate":"2008",
         "headline":"Medicel Oy",
-        "text":"<p>senior software engineer (Java) <br> Implemented e.g. biochemical pathway navigator, <br> multiple bioinformatics tools and mass spectrometry viewer</p>",
+				"tag":"Medicel Oy",
+        "text":"<p>senior software engineer (Java) <br> Implemented e.g. biochemical pathway navigator & visualizer, <br> multiple bioinformatics tools and mass spectrometry viewer <br> Java (JEE), JBoss, SQL, Cruise control etc.</p>",
         "asset": {
-          "media":"",
-          "credit":"",
-          "caption":"test"
+          "credit":"Medicel Oy",
+          "caption":"Java (JEE), JBoss, SQL, Cruise control etc."
         }
       },
 			{
         "startDate":"2008",
 				"endDate":"2013",
         "headline":"Perigeum Oy",
+				"tag":"Perigeum Oy",
         "text":"<p>software consultant (Java)</p>",
         "asset": {
           "media":"http://www.perigeum.fi/",
-          "credit":"",
-          "caption":""
+          "credit":"Perigeum Oy",
+          "caption":"Java (JEE), Javascript, Oracle WebLogic, SQL etc."
         }
       },
 			{
-        "startDate":"2008",
-				"endDate":"2009",
+        "startDate":"2008,8,1",
+				"endDate":"2009,2,1",
         "headline":"Itella / Posti",
+				"tag":"Posti Oy, Finland",
         "text":"<p>software consultant (Java, JSP, front end)</p>",
         "asset": {
-          "media":"",
-          "credit":"",
-          "caption":""
+          "media":"http://www.posti.fi",
+          "credit":"Posti Oy",
+          "caption":"Java, JSP etc."
         }
       },
 			{
         "startDate":"2009",
-				"endDate":"2010",
+				"endDate":"2010,2,1",
         "headline":"NSN / Nokia Networks",
+				"tag":"Nokia Oy",
         "text":"<p>software consultant (Java (JEE), weblogic)</p>",
         "asset": {
           "media":"https://networks.nokia.com/",
-          "credit":"",
-          "caption":""
+          "credit":"Nokia",
+          "caption":"Java (JEE), WebLogic"
         }
       },
 			{
-        "startDate":"2010",
-				"endDate":"2010",
+        "startDate":"2010,3,1",
+				"endDate":"2010,6,1",
         "headline":"Logica / CGI",
+				"tag":"CGI",
         "text":"<p>software consultant (Java (JEE))</p>",
         "asset": {
           "media":"https://www.cgi.com/",
-          "credit":"",
-          "caption":""
+          "credit":"CGI",
+          "caption":"Java (JEE), Spring, Hibernate etc."
         }
       },
 			{
         "startDate":"2010",
-				"endDate":"2010",
+				"endDate":"2010,10,1",
         "headline":"Logica / CGI (remote)",
+				"tag":"CGI",
         "text":"<p>software consultant (Java, front end)</p>",
         "asset": {
           "media":"https://www.cgi.com/",
-          "credit":"",
-          "caption":""
+          "credit":"CGI",
+          "caption":"Java, front end"
         }
       },
 			{
         "startDate":"2010",
 				"endDate":"2011",
         "headline":"OP-Pohjola/OP",
+				"tag":"OP",
         "text":"<p>software consultant (Javascript, JQuery etc.)</p>",
         "asset": {
           "media":"https://www.op.fi",
-          "credit":"",
-          "caption":""
+          "credit":"OP",
+          "caption":"Java, Javascript, front end"
         }
       },
 			{
         "startDate":"2011",
 				"endDate":"2012",
         "headline":"Vaisala Oy",
+				"tag":"Vaisala Oy",
         "text":"<p>software consultant (Java (JEE))</p>",
         "asset": {
           "media":"http://www.vaisala.fi/",
-          "credit":"",
-          "caption":""
+          "credit":"Vaisala",
+          "caption":"Java (JEE)"
         }
       },
 			{
         "startDate":"2012",
-				"endDate":"2013",
+				"endDate":"2013,6,4",
         "headline":"Perigeum Oy (office)",
         "text":"<p>Bigdata & BI training</p>",
+				"tag":"Perigeum Oy",
         "asset": {
           "media":"http://www.perigeum.fi/portfolio-view/big-data/",
-          "credit":"",
-          "caption":""
+          "credit":"Perigeum Oy",
+          "caption":"Java, SAS"
         }
       },
 			{
-        "startDate":"2013",
+        "startDate":"2013,9,1",
 				"endDate":"2014",
         "headline":"Aalto Protomo",
+				"tag":"Aalto Protomo",
         "text":"<p>sponsored entrepreneurship program</p>",
         "asset": {
           "media":"http://pienyrityskeskus.aalto.fi/fi/eu-projects/archive/national/aalto_protomo_helsinki/",
-          "credit":"",
-          "caption":""
+          "credit":"Aalto Protomo",
+          "caption":"Java, Javascript"
         }
       },
 			{
         "startDate":"2014",
 				"endDate":"2017",
         "headline":"FaceOP",
+				"tag":"FaceOP, http://www.faceop.com",
         "text":"<p>FaceOP app Beta, design & implementation</p>",
         "asset": {
           "media":"https://github.com/DanielKolsi/FaceOP",
-          "credit":"",
-          "caption":""
+          "credit":"FaceOP",
+          "caption":"Objective C (iOS), Javascript (Appery.io), Java (Android)"
         }
       },
 			{
         "startDate":"2017",
         "headline":"BusinessKnot",
+				"tag":"BusinessKnot",
         "text":"<p>BusinessKnot team + initial business meeting app design</p>",
         "asset": {
           "media":"https://github.com/DanielKolsi/BusinessKnot",
-          "credit":"",
-          "caption":""
+          "credit":"BusinessKnot",
+          "caption":"Java (Android)"
         }
       }
 		]

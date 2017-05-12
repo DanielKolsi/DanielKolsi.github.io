@@ -4,21 +4,17 @@
 		"headline":"Daniel Kolsi's portfolio of side projects",
 		"type":"default",
 		"text":"<p>Some digests of side projects since 1991 <br> Content partially available at GitHub </p>",
-		"asset": {
-			"media":"",
-			"credit":"Credit Name Goes Here",
-			"caption":"Caption text goes here"
-		},
+
 		"date": [
 			{
 				"startDate":"1991,12,10",
 				"endDate":"1998",
         "headline":"Amiga demoscene effects",
-        "text":"<p>move.l #$ff, $dff180</p>",
+        "text":"<p><i>move.l #$ff, $dff180</i></p>",
         "asset": {
           "media":"https://github.com/DanielKolsi/demoscene",
-          "credit":"",
-          "caption":""
+          "credit":"Dual Crew Shining - There are always two points of view",
+          "caption":"MC68K assembler, Javascript"
         }
       },
 			{
@@ -28,8 +24,8 @@
         "text":"<p>Kirjasilta - kristillisiä kirjasia verkossa</p>",
         "asset": {
           "media":"http://www.kirjasilta.net",
-          "credit":"credit",
-          "caption":"caption"
+          "credit":"Risto, Jari, Daniel (since 2000)",
+          "caption":"HTML, Javascript"
         }
       },
 			{
@@ -38,28 +34,30 @@
         "text":"<p>FaceOP - face-to-face profile matched group meetings</p>",
         "asset": {
           "media":"http://www.faceop.com",
-          "credit":"credit",
-          "caption":"caption"
+          "credit":"GPSMeet & FaceOP",
+          "caption":"Objective C, Javascript & Java"
         }
       },
 			{
         "startDate":"2014,1,1",
         "headline":"Chess solution",
         "text":"<p>Purpose is to solve who wins in chess in an optimal game play</p>",
+				"tag":"ChessSolution",
         "asset": {
           "media":"https://github.com/DanielKolsi/ChessSolution",
-          "credit":"",
-          "caption":""
+          "credit":"Daniel Kolsi",
+          "caption":"Java"
         }
       },
 			{
         "startDate":"2015,4,10",
         "headline":"LasarOS",
         "text":"<p>Open source patient care system</p>",
+				"tag":"LasarOS",
         "asset": {
           "media":"https://github.com/DanielKolsi/LasarOS",
-          "credit":"",
-          "caption":""
+          "credit":"Daniel Kolsi",
+          "caption":"Javascript (M.E.A.N stack)"
         }
       },
 			{
@@ -69,38 +67,41 @@
 				"tag":"Epoch game",
         "asset": {
           "media":"https://github.com/DanielKolsi/Epoch",
-          "credit":"",
-          "caption":""
+          "credit":"Uses Phaser engine, Daniel Kolsi",
+          "caption":"Javascript"
         }
       },
 			{
         "startDate":"2017,2,1",
         "headline":"Matcher",
-        "text":"<p>Profile matcher engine for FaceOP & BusinessKnot</p>",
+        "text":"<p>Profile matcher engine (RegExp + AI) for FaceOP & BusinessKnot</p>",
+				"tag":"Matcher",
         "asset": {
           "media":"https://github.com/DanielKolsi/matcher",
-          "credit":"Matcher @ GitHub",
-          "caption":"Matcher engine: RegExp + AI"
+          "credit":"Daniel Kolsi",
+          "caption":"Java, Javascript"
         }
       },
 			{
         "startDate":"2017,4,10",
         "headline":"BusinessKnot",
+				"tag":"BusinessKnot",
         "text":"<p>Business related face-to-face profile matching</p>",
         "asset": {
           "media":"https://github.com/DanielKolsi/BusinessKnot",
-          "credit":"",
-          "caption":""
+          "credit":"code: Daniel Kolsi, idea: BusinessKnot team",
+          "caption":"Java (Android)"
         }
       },
 			{
         "startDate":"2017,5,10",
         "headline":"Javascript experiments",
+				"tag":"JS experiments",
         "text":"<p>Code snippets of Javascript experiments <br> with different libraries</p>",
         "asset": {
           "media":"https://github.com/DanielKolsi/js_experiments",
-          "credit":"",
-          "caption":""
+          "credit":"Daniel Kolsi",
+          "caption":"Javascript (multiple libraries)"
         }
       }
 

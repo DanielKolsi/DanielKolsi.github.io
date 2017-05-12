@@ -3,6 +3,13 @@
 <html>
 
 <head>
+  <style>
+    html, body {
+     height:100%;
+     padding: 0px;
+     margin: 0px;
+    }
+  </style>
 		<!-- jQuery -->
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 		<!-- BEGIN TimelineJS -->
@@ -12,7 +19,7 @@
 		$(document).ready(function() {
 			createStoryJS({
 				type:		'timeline',
-				width:		'800',
+				width:		'100%',
 				height:		'600',
 				source:		'resume.json',
 				embed_id:	'my-resume'
@@ -21,9 +28,10 @@
 		</script>
 	<!-- END TimelineJS -->
 		<body>
-		Daniel Kolsi's resume
-		<br>Show <a href="../index.html">Portfolio &#x2328;</a>
-		<div id="my-resume"></div>
+    <h2>Daniel Kolsi's resume
+		<br>Show <a href="../index.html">Portfolio &#x2328;</a></h2>
+  	<div id="my-resume"></div>
+
 	</body>
 
 </html
