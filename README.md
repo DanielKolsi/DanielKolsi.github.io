@@ -1,2 +1,3 @@
 # DanielKolsi.github.io
-Portfolio of Daniel Kolsi
+Portfolio and resume of Daniel Kolsi using open source TimeLine component (+JSON)
++ Developer story 
