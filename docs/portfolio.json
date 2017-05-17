@@ -11,6 +11,7 @@
 				"endDate":"1998",
         "headline":"Amiga demoscene effects",
         "text":"<p><i>move.l #$ff, $dff180</i></p>",
+				"tag":"Amiga demoscene (DCS - Dual Crew Shining)"
         "asset": {
           "media":"https://github.com/DanielKolsi/demoscene",
           "credit":"Dual Crew Shining - There are always two points of view",
@@ -22,6 +23,7 @@
 				"endDate":"2000",
         "headline":"Kirjasilta",
         "text":"<p>Kirjasilta - kristillisiä kirjasia verkossa</p>",
+				"tag":"Kirjasilta",
         "asset": {
           "media":"http://www.kirjasilta.net",
           "credit":"Risto, Jari, Daniel (since 2000)",
@@ -32,6 +34,7 @@
         "startDate":"2013,10,1",
         "headline":"FaceOP",
         "text":"<p>FaceOP - face-to-face profile matched group meetings</p>",
+				"tag":"FaceOP",
         "asset": {
           "media":"https://github.com/DanielKolsi/FaceOP",
           "credit":"GPSMeet & FaceOP",
